@@ -5,7 +5,7 @@ metadata:
   name: nginxacd
 
 spec:
-  replicas: 1
+  replizcas: 1
 
   selector:
     matchLabels:
