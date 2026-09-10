@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 
 metadata:
-  name: nginx
+  name: nginxargocd
 
 spec:
   replicas: 2
